@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/6kTb4Y' target='_blank'><img src='https://4.bp.blogspot.com/-iQ82ow9n808/WhfSQVNOwKI/AAAAAAAAA5U/mjJvokO-aH0fBsG5pMzaKnGWDjVHoecxgCLcBGAs/s640/du-an-saigon-mystery-mobi.jpg' width='500px'/><br/>Tầm nhìn triệu $</a>. Bên Sông Sài Gòn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/6kTb4Y' target='_blank'><img src='https://4.bp.blogspot.com/-iQ82ow9n808/WhfSQVNOwKI/AAAAAAAAA5U/mjJvokO-aH0fBsG5pMzaKnGWDjVHoecxgCLcBGAs/s640/du-an-saigon-mystery-mobi.jpg' width='500px'/><br/>Giá bán biệt thự Saigon Mystery Q2</a>. Vị trí Bên Sông Sài Gòn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
